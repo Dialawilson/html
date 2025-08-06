@@ -12,6 +12,6 @@ chapo & sub => contact us
 godwill & ken => portfolio
 prince  => about us
 AG =>  colors and buttons linking all pages
-comrade & chap => skills
+comrade  => skills
 soki & chidera => download cv
 divine =>  footer
